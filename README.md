@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikram.singh.nainn@gmail.com**
 
-- ⚡ Fun fact **The feeling of "butterflies in the stomach" that often accompanies the early stages of a romantic relationship is actually a physiological response. It's caused by a rush of adrenaline and the release of stress hormones, creating a mix of excitement and nervousness.**
+
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/vikram-nain-064205114/</h3>
 <p align="left">
