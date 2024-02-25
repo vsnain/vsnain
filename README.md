@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">Engineering, product, and human psychology.</h3>
 
-- 🔭 I’m currently working on [Hopium University](https://github.com/vsnain/HopiumUniversity)
+- 🔭 I’m currently working on [AutoApply](https://github.com/vsnain/autoapply)
 
 - 🌱 I’m currently learning **Neural Networks**
 
