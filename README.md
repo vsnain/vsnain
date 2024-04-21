@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
-<h3 align="center">Engineering, product, and human psychology.</h3>
+<h3 align="center">I'm into Engineering, product, and human psychology.</h3>
 
 - 🔭 I’m currently working on [AutoApply](https://github.com/vsnain/autoapply)
 
