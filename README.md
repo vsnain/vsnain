@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikram</h1>
+<h1 align="center">Hi 👋, I'm X</h1>
 <h3 align="center">Engineering, product, and human psychology.</h3>
 
 - 🔭 I’m currently working on [AutoApply](https://github.com/vsnain/autoapply)
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **building products**
 
-- 📫 How to reach me **vikram.singh.nainn@gmail.com**
+
 
 
 
