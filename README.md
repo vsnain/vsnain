@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">I'm into Engineering, product, and human psychology.</h3>
 
-- 🔭 I’m currently working on [AutoApply](https://github.com/vsnain/autoapply)
+- 🔭 I’m currently working on [EliteVault](https://github.com/vsnain/EliteVault)
 
 - 🌱 I’m currently learning **Neural Networks**
 
